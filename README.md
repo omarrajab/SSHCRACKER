@@ -2,7 +2,8 @@
 A Simple SSH bruteforce Tool 
 Since most SSH users has a default password this tool can be used to test this critical issue
 
-
+# DEPENDENCIES
+Paramiko
 
 # USAGE
  $python sshcracker.py
